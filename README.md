@@ -1,7 +1,7 @@
 [![CI](https://github.com/nogibjj/Week-3-Polars-Descriptive-Statistics-Osama/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Week-3-Polars-Descriptive-Statistics-Osama/actions/workflows/cicd.yml)
 
-# Week 3: Polars Descriptive Statistics Project
-## This project builds upon the previous project to run some descriptive analytics and present the results using polars and MatplotLib
+Polars Descriptive Statistics Project
+## This project builds upon a previous project to run some descriptive analytics and present the results using polars and MatplotLib
 
 
 ## This repo includes the :
